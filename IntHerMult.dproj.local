@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/12 18:51:16.000.893,=C:\Users\plinio_pc\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/12 18:52:45.000.243,=C:\Users\plinio_pc\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/15 10:01:08.000.677,=C:\Users\plinio_pc\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/30 09:14:42.000.220,=C:\Users\plinio_pc\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/30 09:16:17.000.415,C:\Users\plinio_pc\Documents\RAD Studio\Projects\Unit1.pas=G:\dev\prj\Interface_Heranca_Multipla\UFrmPrincipal.pas</Transaction>
+    <Transaction>2022/08/30 09:16:17.000.415,C:\Users\plinio_pc\Documents\RAD Studio\Projects\Unit1.dfm=G:\dev\prj\Interface_Heranca_Multipla\UFrmPrincipal.dfm</Transaction>
+    <Transaction>2022/08/30 09:17:00.000.623,C:\Users\plinio_pc\Documents\RAD Studio\Projects\Project1.dproj=G:\dev\prj\Interface_Heranca_Multipla\IntHerMult.dproj</Transaction>
+    <Transaction>2022/08/30 09:17:29.000.900,=G:\dev\prj\Interface_Heranca_Multipla\Unit1.pas</Transaction>
+    <Transaction>2022/08/30 09:51:18.000.252,G:\dev\prj\Interface_Heranca_Multipla\Unit1.pas=G:\dev\prj\Interface_Heranca_Multipla\UIntHerMult.pas</Transaction>
+  </Transactions>
+</BorlandProject>
